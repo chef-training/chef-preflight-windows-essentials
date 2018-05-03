@@ -72,6 +72,6 @@ Alternatively:
 
 4. Forward the generated “preflight_results.csv” file back to our team.
 
-*Our team will review the results of the Pre-flight script and Please let me know if you need any further assistance with this. We are happy to help.*
+*Our team will review the results of the pre-flight script. Please let us know if you need any further assistance. We are happy to help.*
 
-*We’re looking forward to working with you and your team!*
+*We’re looking forward to working with your team!*
