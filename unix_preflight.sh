@@ -91,13 +91,15 @@ done
 # NOTE: Currently requires that portquiz.net is unblocked. Check for site check failure if this fails to rule out false positive.
 
 ports=(\
-  22 \
-  3389
+  5985 \
+  3389 \
+  80 \
+  443
   )
 
 echo
 echo "###############################################################################"
-echo "Checking outgoing SSH and RDP ports..."
+echo "Checking outgoing WINRM, RDP, HTTP and HTTPS ports..."
 echo 
 
 col=40
